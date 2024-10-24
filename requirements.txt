@@ -1,0 +1,7 @@
+telebot==0.0.5
+opencv-python==4.10.0.84
+rembg==2.0.58
+fpdf==1.7.2
+pytube==15.0.0
+MukeshAPI==0.6.5.6
+gunicorn
